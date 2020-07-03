@@ -1,6 +1,6 @@
 # MysticCrm
 ### A CRM built FOR and BY Developers
-####### (Note Early Stages any help is greatly appreciated.)
+###### (Note Early Stages any help is greatly appreciated.)
 Goals:
 * 100% Native Zapier Integration
 * Be 100% Self Hostable
